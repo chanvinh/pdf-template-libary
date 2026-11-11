@@ -1,0 +1,44 @@
+[
+  {
+    "id": "business-pitch",
+    "title": "Business Pitch",
+    "description": "Mẫu gọi vốn tông xanh đậm, nhấn vàng, phù hợp startup và đề xuất dự án.",
+    "category": "Kinh doanh",
+    "thumbnail": "business-pitch/slides/1.svg",
+    "previewSlides": [
+      "business-pitch/slides/1.svg",
+      "business-pitch/slides/2.svg",
+      "business-pitch/slides/3.svg",
+      "business-pitch/slides/4.svg"
+    ],
+    "filePath": "business-pitch/template.pptx"
+  },
+  {
+    "id": "education-lesson",
+    "title": "Bài giảng Giáo dục",
+    "description": "Mẫu bài giảng tông xanh lá dịu mắt, có slide mục tiêu, nội dung và bài tập.",
+    "category": "Giáo dục",
+    "thumbnail": "education-lesson/slides/1.svg",
+    "previewSlides": [
+      "education-lesson/slides/1.svg",
+      "education-lesson/slides/2.svg",
+      "education-lesson/slides/3.svg",
+      "education-lesson/slides/4.svg"
+    ],
+    "filePath": "education-lesson/template.pptx"
+  },
+  {
+    "id": "minimal-report",
+    "title": "Báo cáo Tối giản",
+    "description": "Mẫu báo cáo nền trắng tối giản với điểm nhấn đỏ, tập trung vào số liệu.",
+    "category": "Báo cáo",
+    "thumbnail": "minimal-report/slides/1.svg",
+    "previewSlides": [
+      "minimal-report/slides/1.svg",
+      "minimal-report/slides/2.svg",
+      "minimal-report/slides/3.svg",
+      "minimal-report/slides/4.svg"
+    ],
+    "filePath": "minimal-report/template.pptx"
+  }
+]
